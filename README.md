@@ -1,10 +1,11 @@
-*This is also an english version [here](README.en.md)*
+*There is also an english version [here](README.en.md)*
 
 # Langage de programmation Zob
-Le langage de programmation 'Zob' est encore un nouveau langage dont la priorité est la performance et la fiabilité dans le temps en utilisant le moteur node.js. Fièrement propulsé par javascript. Le meilleur langage de programmation du monde aux dépens des ressouces utilisateur.
+Le langage de programmation 'Zob' : la meilleure manière de pisser du code.
+
+La priorité du langage est la performance et la fiabilité dans le temps en se basant le moteur node.js. Fièrement propulsé par javascript. Le meilleur langage de programmation du monde aux dépens des ressouces utilisateur.
 
 # Installation
-
 Pour installer zob, vous devez d'abord installer [nodejs](https://nodejs.org) sur votre machine ayant les capacités d'exécuter du javascript. Ensuite, dans n'importe quelle ligne de commande, lancez :
 ```
 npm install -g zob-lang
@@ -44,6 +45,8 @@ zob server = app.phallus(3000, braquemard (8==D) {
 });
 ```
 
+# Le futur du Zob
+La création d'un vrai langage natif, non basé sur node.js et javascript est à l'étude.
 
 # Logos
 Si vous souhaitez programmer en Zob et voulez l'afficher dans votre propre projet, vous pouvez utiliser ces logos. Ils sont enrichis du langage de programmation Zob.
