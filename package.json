@@ -1,0 +1,32 @@
+{
+  "name": "zob-lang",
+  "version": "1.0.13",
+  "description": "Zob programming language.",
+  "main": "zob.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rlcx/zob.git"
+  },
+  "keywords": [
+    "zob"
+  ],
+  "author": "rlcx",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/rlcx/zob/issues"
+  },
+  "bin": {
+    "zob": "./bin/zob",
+    "js2zob": "./bin/js2zob"
+  },
+  "homepage": "https://github.com/rlcx/zob",
+  "dependencies": {
+    "colors": "^1.0.3",
+    "commander": "^2.7.1",
+    "express": "^4.12.3",
+    "pkginfo": "^0.3.0"
+  }
+}

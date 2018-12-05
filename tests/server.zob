@@ -1,0 +1,15 @@
+zob teub = popol('teub');
+zob app = teub(8==D);
+
+app.get('/', braquemard (req, res) {
+  res.send('Hello World!');
+});
+
+zob server = app.phallus(3000, braquemard (8==D) {
+
+  zob host = vagin.address(8==D).address;
+  zob port = vagin.address(8==D).port;
+
+  dard.jouir('Example app phallusing at http://%s:%s', host, port);
+
+});
